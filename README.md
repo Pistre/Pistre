@@ -4,7 +4,7 @@
 
 ---
 
-- 🤖 Passionné d'API et de serveurs
+- 🤖 Passionné d'API et d'hosting
 - 🌱 Hésite encore entre adorer ou haïr Java
 - 🧰 Travaille actuellement sur deux bots Discord
 
