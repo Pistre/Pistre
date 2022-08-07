@@ -4,9 +4,9 @@
 
 ---
 
-- 🤖 Passionné de bots Discord en tout genres
-- 🌱 J'apréhende Java en évitant de me tailler mes les veines
-- 🧰 Travaille actuellement sur un bot Discord en collaboration avec le Club Informatique de Polytech Lille
+- 🤖 Passionné d'APIs et de 
+- 🌱 Hésite encore entre adorer ou haïr Java
+- 🧰 Travaille actuellement sur deux bots Discord
 
 ---
 - Mes langages 
@@ -23,4 +23,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" alt="WebStorm" width="40" height="40"/>&nbsp;
 </div>
