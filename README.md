@@ -5,7 +5,7 @@
 ---
 
 - 🤖 Passionné d'API et d'hosting
-- 🌱 Hésite encore entre adorer ou haïr Java
+- 🌱 Appréhende le dev web en Rust
 - 🧰 Travaille actuellement sur un bot Discord
 
 ---
