@@ -4,9 +4,9 @@
 
 ---
 
-- ❤️ Vive le back 
-- 🌱 Appréhende le dev web en Rust
-- 🧰 Travaille actuellement sur un bot Discord
+- ❤️ Vive le back et l'embarqué
+- 🌱 Appréhende les dockers
+- 🧰 Travaille sur la coupe de France de robotique
 
 ---
 - Mes langages
