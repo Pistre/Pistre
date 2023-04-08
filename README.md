@@ -6,7 +6,7 @@
 
 - ❤️ Vive le back et l'embarqué
 - 🌱 Appréhende les containers Docker
-- 🧰 Membre du pôle informatique de [Robotech Nancy](https://robotech.polytech-nancy.univ-lorraine.fr/)
+- 🤖 Membre du pôle informatique de [Robotech Nancy](https://robotech.polytech-nancy.univ-lorraine.fr/)
 
 ---
 - Mes langages
