@@ -5,7 +5,7 @@
 ---
 
 - ❤️ Vive le back et l'embarqué
-- 🌱 Appréhende les containers Docker
+- 🎮 Ancien respons dev du [Club Informatique de Polytech Nancy](https://github.com/CI-Polytech-Nancy)
 - 🤖 Membre du pôle informatique de [Robotech Nancy](https://robotech.polytech-nancy.univ-lorraine.fr/)
 
 ---
