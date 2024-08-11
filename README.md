@@ -42,6 +42,7 @@
 
 - Mes IDE
 <div>
+  <img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_square_36_white.1fd89961.png&w=48&q=75" title="Zed" alt='Zed' width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/clion-logo-png-transparent.png" title="CLion" alt="CLion" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>
